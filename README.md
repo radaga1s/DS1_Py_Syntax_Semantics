@@ -3,14 +3,8 @@
 Summary: Today we will help you acquire basic knowledge of the syntax and semantics
 of Python.
 
-💡 [Tap here](https://new.oprosso.net/p/4cb31ec3f47a4596bc758ea1861fb624) **to leave your feedback on the project**. It's anonymous and will help our team make your educational experience better. We recommend completing the survey immediately after the project.
-
 ## Contents
 
-1. [Chapter I](#chapter-i) \
-    1.1. [Foreword](#foreword)
-2. [Chapter II](#chapter-ii) \
-    2.1. [Instructions](#instructions)
 3. [Chapter III](#chapter-iii) \
     3.1. [Specific instructions of the day](#specific-instructions-of-the-day)
 4. [Chapter IV](#chapter-iv) \
@@ -34,69 +28,6 @@ of Python.
 13. [Chapter XIII](#chapter-xiii) \
     13.1. [Exercise 09 : Caesar cipher](#exercise-09-caesar-cipher)
     
-   
-## Chapter I
-
-### Foreword
-
-Python is the most popular programming language for data science. Why is it so good
-for that kind of task? Python is an interpreted language. That means that you can easily
-interact with different pieces of code and get fast results. And that is exactly what we
-need if we want to analyze data from different angles or try different hyperparameters for
-a machine learning model. Besides this, Python has a lot of libraries that are suitable for
-scientific tasks, including data science. Add to this a pretty simple syntax and you will
-get the most popular programming language for data science tasks.
-
-Just for fun, look at these 19 beautiful guiding principles that influenced the design
-of Python:
-
-* Beautiful is better than ugly.
-* Explicit is better than implicit.
-* Simple is better than complex.
-* Complex is better than complicated.
-* Flat is better than nested.
-* Sparse is better than dense.
-* Readability counts.
-* Special cases aren’t special enough to break the rules.
-* Although practicality beats purity.
-* Errors should never pass silently.
-* Unless explicitly silenced.
-* In the face of ambiguity, refuse the temptation to guess.
-* There should be one - and preferably only one - obvious way to do it.
-* Although that way may not be obvious at first unless you’re Dutch.
-* Now is better than never.
-* Although never is often better than *right* now.
-* If the implementation is hard to explain, it’s a bad idea.
-* If the implementation is easy to explain, it may be a good idea.
-* Namespaces are one honking great idea - let’s do more of those!
-
-In case you forget any of them, you can just write import this in Python and ythey
-will quickly appear.
-
-## Chapter II
-
-### Instructions
-
-* Use this page as your only reference. Do not listen to any rumors or speculations
-about how to prepare your solution.
-* Here and further on we use Python 3 as the only correct version of Python.
-* The python files for python exercises (module01, module02, module03) must have
-the following block at the end: if __name__ == ‘__main__’.
-* Pay attention to the permissions of your files and directories.
-* To be assessed your solution must be in your GIT repository.
-* Your solutions will be evaluated by your piscine peers.
-* You should not leave any files in your directory other than those explicitly specified
-by the exercise instructions. It is recommended that you modify your .gitignore to
-avoid any accidents.
-* When you need to get precise output in your programs, it is forbidden to display a
-precalculated output instead of performing the exercise correctly.
-* Have a question? Ask your neighbor on the right. If that fails, try your neighbor
-on the left.
-* Your reference material: peers / Internet / Google.
-* Remember, you can engage in discussion on the Intra Piscine forum.
-* Read the examples carefully. They may require things that are not otherwise spec-
-ified in the subject.
-* And may the Force be with you!
 
 ## Chapter III
 
