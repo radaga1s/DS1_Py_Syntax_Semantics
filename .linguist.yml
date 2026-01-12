@@ -1,0 +1,32 @@
+---
+linguist:
+  language: Python
+  detected: true
+
+linguist-documentation:
+  - docs/
+  - "*.md"
+  - "*.txt"
+  - "*.rst"
+  - README
+  - LICENSE
+
+linguist-vendored:
+  - "*.csv"
+  - "*.json"
+  - src/data/
+  - dataset/
+
+linguist-generated:
+  - "*.pyc"
+  - "__pycache__/"
+  - "*.so"
+  - "build/"
+  - "dist/"
+  - "*.egg-info/"
+
+custom:
+  - name: "Python"
+    type: "programming"
+    color: "#3572A5"
+    extensions: [".py", ".pyx", ".pxd"]
