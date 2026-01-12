@@ -31,6 +31,7 @@ def main():
        func, *args = d[command]
        print(func(*args))
 
+
 if __name__ == '__main__':
     try:
         main()
